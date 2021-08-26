@@ -14,7 +14,7 @@ team add pink
 team modify pink prefix {"text":"TeamPink ", "color":"light_purple"}
 
 team add black
-team modify black prefix {"text":"TeamBlack ", "color":"black"}
+team modify black prefix {"text":"TeamBlack ", "color":"dark_gray"}
 
 team add white
 team modify white prefix {"text":"TeamWhite ", "color":"gray"}
