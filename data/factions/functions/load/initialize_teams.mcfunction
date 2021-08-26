@@ -1,0 +1,10 @@
+team add blue
+team add red
+team add green
+team add yellow
+team add pink
+team add black
+team add white
+team add aqua
+team add lime
+team add purple
